@@ -1,0 +1,32 @@
+div>div.jiu{height:1000px;margin-top:20px;width:1349px;}
+div>div.jiu>h4{text-align:center;color:#77D1AD;font-size:30px;font-weight:500;}
+div>div.jiu>p{width:1100px;margin:0 auto;text-indent:2em;color:#666;}
+div>div.jiu>ul.j1{width:1200px;height:850px;margin:0 auto;}
+div>div.jiu>ul.j1>li{float:left;width:340px;height:230px;margin:45px 0px 0px 45px;background:black;overflow:hidden;}
+div>div.jiu>ul.j1>li>img{width:340px;height:230px;opacity:0.5}
+div>div.yue{margin-top:20px;height:1000px;}
+div>div.yue>ul.yi>li{width:1200px;height:216px;margin:20px auto;border-bottom:1px #ccc dashed;}
+div>div.yue>ul.yi>li>div{width:830px;float:right;}
+div>div.yue>ul.yi>li>div>h3{font-weight:100;margin-bottom:40px;}
+div>div.yue>ul.yi>li>div>p{font-size:15px;color:#666;margin-bottom:40px;text-indent:2em;}
+div>div.yue>ul.yi>li>div>a{color:red;}
+div>div.yue>ul.yi>li>a:first-child{display:block;width:340px;height:200px;overflow:hidden;background:black;float:left;}
+div>div.yue>ul.yi>li>a>img{width:340px;height:200px;opacity:0.7;}
+div>div.yue>ul.ym{width:200px;margin:10px auto;}
+div>div.yue>ul.ym>li{float:left;margin-left:15px;border:1px #ccc solid;}
+div>div.yue>ul.ym>li>a{color:black;}
+div>div.yue>ul.ym>li.one{width:20px;border:1px red solid;text-align:center;}
+div>div.ill>h3{font-size:30px;font-weight:100;margin-top:20px;text-align:center;}
+div>div.ill>div.tab{width:1160px;margin:20px auto;border:1px #ccc dashed}
+div>div.ill>div.tab>ul{width:1160px;margin:20px auto;}
+div>div.ill>div.tab>ul>li{float:left;margin-left:27px;}
+div>div.ill>div.tab>ul>li>p{text-align:center;margin-bottom:10px;font-size:20px;}
+div>div.ill>div.tab>ul>li>div{width:350px;height:230px;overflow:hidden;}
+div>div.ill>div.tab>ul>li>div>img{width:350px;height:230px;}
+div>div.ill>div.tab>p{width:1100px;font-size:15px;text-indent: 2em;margin-bottom:20px;margin-left:32px;}
+div>div.done>h3{font-size:30px;font-weight:100;margin-top:20px;text-align:center;}
+div>div.done>div.ten{width:1160px;margin:20px auto;border:1px #ccc dashed}
+div>div.done>div.ten>ul{width:1160px;height:200px;margin:20px auto;}
+div>div.done>div.ten>ul>li{width:350px;height:191px;float:left;margin-left:30px;overflow:hidden;}
+div>div.done>div.ten>ul>li>img{width:350px;height:191px;}
+div>div.done>div.ten>p{width:1100px;font-size:15px;text-indent:2em;margin-bottom:20px;margin-left:32px;}

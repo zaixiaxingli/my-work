@@ -1,0 +1,24 @@
+div>div.max{margin-top:20px;height:550px;}
+div>div.max>div.tex{height:495px;}
+div>div.max>div.tex>h4{text-align:center;color:#77D1AD;margin-bottom:15px;}
+div>div.max>div.tex>ul.dan>li{float:left;width:337px;height:219px;outline:2px solid #ccc;position:relative;overflow:hidden;background:black;}
+div>div.max>div.tex>ul.dan>li>img{width:337px;height:219px;opacity:0.5}
+div>div.max>div.tex>ul.dan>li>div{width:337px;height:219px;position:absolute;top:0px;left:0px;text-align:center;}
+div>div.max>div.tex>ul.dan>li>div>h5{margin:60px 0px 20px 0px;font-size:25px;color:#FFF;font-weight:300;}
+div>div.max>div.tex>ul.dan>li>div>a{margin:0 auto;display:block;width:58px;height:36px;outline:1px solid #FFF;line-height:36px;color:#FFF;font-size:15px;}
+div>div.max>div.over{margin:0 auto;width:188px;height:42px;}
+div>div.max>div.over>ul{text-align:center;line-height:42px;}
+div>div.max>div.over>ul>li{width:38px;height:42px;background:#77D1AD;color:#FFF;float:left;outline:2px solid #77D1AD;}
+div>div.max>div.over>ul>li:first-child{width:74px;height:42px;color:#CCC;outline:2px solid #ccc;background:#FFF;font-size:10px;}
+div>div.max>div.over>ul>li:last-child{width:74px;height:42px;color:#CCC;outline:2px solid #ccc;background:#FFF;font-size:10px;}
+
+/*div>div.footer{background:#2B241C;width:1349px;height:330px;}
+div>div.footer>div.ture{width:1349px;height:215px;}
+div>div.footer>div.ture>ul{width:574px;height:185px;float:left;border-right:1px solid #ccc;margin-top:30px;}
+div>div.footer>div.ture>ul>li{float:left;margin:0px 35px;}
+div>div.footer>div.ture>ul>li>p{width:109px;margin-top:10px;}
+div>div.footer>div.ture>div.end{width:770px;height:215px;float:left;}
+div>div.footer>div.ture>div.end>h5{text-align:center;font-size:20px;width:200px;height:30px;clear:both;padding-left:45px;margin-top: 30px;}
+div>div.footer>div.ture>div.end>p{width:240px;height:25px;text-align:center;padding-left:45px;margin-top:10px;}
+div>div.footer>div.ture>div.end>img{width:400px;height:185px;float:right;margin-top:-65px;margin-right:15px;}
+div>div.footer>p{width:1349px;height:20px;clear:both;margin-top:60px;text-align:center;}*/
